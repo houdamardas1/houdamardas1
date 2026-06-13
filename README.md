@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Houda Mardas 👋
 
-<!--
-**houdamardas1/houdamardas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer specializing in:
 
-Here are some ideas to get you started:
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Multi-Agent Systems
+* FastAPI Backend Development
+* Vector Databases (FAISS)
+* Machine Learning
+* Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+Building production-ready AI systems powered by LLMs and RAG architectures.
+
+## Tech Stack
+
+Python • FastAPI • LangChain • FAISS • Docker • PostgreSQL • Redis • Streamlit • TensorFlow • Scikit-Learn
+
+## Featured Projects
+
+### AI Multi-Agent Platform
+
+Multi-agent AI system for intelligent email automation.
+
+### Legal AI Chatbot
+
+RAG-powered conversational AI assistant using LLMs and semantic search.
+
+### Computer Vision & IoT System
+
+Industrial defect detection and smart sorting using YOLO and OpenCV.
+
+### Formula 1 ML Analytics
+
+Machine learning models for Formula 1 performance prediction.
+
+## Connect With Me
+
+LinkedIn:
+[www.linkedin.com/in/houda-m-567987243](http://www.linkedin.com/in/houda-m-567987243)
+
