@@ -12,7 +12,7 @@ Looking for a first full-time role (CDI) as **AI Engineer** or **Backend Enginee
 
 ## What I build
 
-### 🔐 [Fluxa](https://github.com/houdamardas1/fluxa-backend) — secure enterprise document assistant (internship, Alexsys Solutions)
+### 🔐 [Fluxa](https://github.com/houdamardas1/assiante-fluxa) — secure enterprise document assistant (internship, Alexsys Solutions)
 A RAG assistant that answers from company documents with cited sources, while enforcing who is allowed to see what.
 - Hybrid retrieval (FAISS + lexical) and a relevance check before any generation
 - 8 roles, 4 classification levels, prompt-injection filter in 4 languages
@@ -22,7 +22,7 @@ A RAG assistant that answers from company documents with cited sources, while en
 
 `Python` `FastAPI` `FAISS` `Groq` `PostgreSQL` `React` `TypeScript` `Docker` `Azure Bicep`
 
-👉 **[Full source code: backend + frontend](https://github.com/houdamardas1/fluxa-backend)**
+👉 **[Full source code: backend + frontend](https://github.com/houdamardas1/assiante-fluxa)**
 
 ## Tech stack
 
@@ -38,7 +38,7 @@ A RAG assistant that answers from company documents with cited sources, while en
 
 | Project | What it is |
 |---|---|
-| [Fluxa](https://github.com/houdamardas1/fluxa-backend) | Secure RAG document assistant: FastAPI, FAISS, Groq, React (internship, open source) |
+| [Fluxa](https://github.com/houdamardas1/assiante-fluxa) | Secure RAG document assistant: FastAPI, FAISS, Groq, React (internship, open source) |
 | [AI Multi-Agent Platform](https://github.com/houdamardas1/ai-multi-agent-platform) | Multi-agent system (RAG + LLM) for intelligent email automation (graduation project) |
 | [Computer Vision & IoT System](https://github.com/houdamardas1/computer-vision-iot-system) | Defect detection and automatic sorting of bottles with YOLO and OpenCV on Raspberry Pi |
 | Legal AI chatbot | LangChain, Groq API and Streamlit (internship) |
