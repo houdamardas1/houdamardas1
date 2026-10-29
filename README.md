@@ -6,18 +6,23 @@ Looking for a first full-time role (CDI) as **AI Engineer** or **Backend Enginee
 
 *Ingénieure d'État en Génie Informatique & IA, à la recherche d'un premier poste d'AI Engineer ou de Backend Engineer.*
 
-[LinkedIn](https://www.linkedin.com/in/houda-m-567987243/) · [Portfolio](https://portfoliohouda-mardas.netlify.app) · houdamardas844@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Houda%20Mardas-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houda-m-567987243/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-netlify-00C7B7?logo=netlify&logoColor=white)](https://portfoliohouda-mardas.netlify.app)
+[![Email](https://img.shields.io/badge/Email-houdamardas844%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:houdamardas844@gmail.com)
 
 ## What I build
 
-**Fluxa — secure enterprise document assistant (internship, Alexsys Solutions)**
+### 🔐 [Fluxa](https://github.com/houdamardas1/fluxa-backend) — secure enterprise document assistant (internship, Alexsys Solutions)
 A RAG assistant that answers from company documents with cited sources, while enforcing who is allowed to see what.
 - Hybrid retrieval (FAISS + lexical) and a relevance check before any generation
 - 8 roles, 4 classification levels, prompt-injection filter in 4 languages
 - 55 evaluation cases on the real pipeline, 229 automated tests, GitHub Actions CI
 - Docker, 3 environments, target Azure architecture written in Bicep (9 modules)
 
-*Fluxa is built during an internship; the code is private. Architecture and demo available on request.*
+
+`Python` `FastAPI` `FAISS` `Groq` `PostgreSQL` `React` `TypeScript` `Docker` `Azure Bicep`
+
+👉 **[Full source code: backend + frontend](https://github.com/houdamardas1/fluxa-backend)**
 
 ## Tech stack
 
@@ -33,6 +38,7 @@ A RAG assistant that answers from company documents with cited sources, while en
 
 | Project | What it is |
 |---|---|
+| [Fluxa](https://github.com/houdamardas1/fluxa-backend) | Secure RAG document assistant: FastAPI, FAISS, Groq, React (internship, open source) |
 | [AI Multi-Agent Platform](https://github.com/houdamardas1/ai-multi-agent-platform) | Multi-agent system (RAG + LLM) for intelligent email automation (graduation project) |
 | [Computer Vision & IoT System](https://github.com/houdamardas1/computer-vision-iot-system) | Defect detection and automatic sorting of bottles with YOLO and OpenCV on Raspberry Pi |
 | Legal AI chatbot | LangChain, Groq API and Streamlit (internship) |
