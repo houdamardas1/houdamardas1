@@ -41,7 +41,7 @@ A RAG assistant that answers from company documents with cited sources, while en
 | [Fluxa](https://github.com/houdamardas1/assistant-fluxa) | Secure RAG document assistant: FastAPI, FAISS, Groq, React (internship, open source) |
 | [AI Multi-Agent Platform](https://github.com/houdamardas1/ai-multi-agent-platform) | Multi-agent system (RAG + LLM) for intelligent email automation (graduation project) |
 | [Computer Vision & IoT System](https://github.com/houdamardas1/computer-vision-iot-system) | Defect detection and automatic sorting of bottles with YOLO and OpenCV on Raspberry Pi |
-| Legal AI chatbot | LangChain, Groq API and Streamlit (internship) |
+| [Legal AI chatbot](https://github.com/houdamardas1/legal-chatbot) | LangChain, Groq API and Streamlit (internship) |
 | Formula 1 ML analytics | Predicting driver performance from pit-stop data |
 
 ## Certifications
