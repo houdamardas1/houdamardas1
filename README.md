@@ -43,7 +43,7 @@ A RAG assistant that answers from company documents with cited sources, while en
 | [Computer Vision & IoT System](https://github.com/houdamardas1/computer-vision-iot-system) | Defect detection and automatic sorting of bottles with YOLO and OpenCV on Raspberry Pi |
 | [Legal AI chatbot](https://github.com/houdamardas1/legal-chatbot) | LangChain, Groq API and Streamlit (internship) |
 | [FitFlow](https://github.com/houdamardas1/fitflow) | Gym management platform: members, memberships, course booking and weekly schedule, Django admin dashboard (Python, Django) |
-| Formula 1 ML analytics | Predicting driver performance from pit-stop data |
+| [Formula 1 ML analytics](https://github.com/houdamardas1/formula1-ml-analytics) | Predicting driver performance from pit-stop data |
 
 ## Certifications
 
